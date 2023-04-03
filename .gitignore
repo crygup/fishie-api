@@ -1,3 +1,4 @@
 .gut
 /venv/
-config.toml
+/config.py
+/.vscode/

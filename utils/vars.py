@@ -1,4 +1,5 @@
-from re import compile as comp, X, Pattern
+from re import Pattern, X
+from re import compile as comp
 
 # fmt: off
 VIDEOS_RE: Pattern = comp(
