@@ -2,3 +2,5 @@
 /venv/
 /config.py
 /.vscode/
+/__pycache__
+.*pyc
